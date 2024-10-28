@@ -1,5 +1,5 @@
 function serialize(object) {
-  return '';
+  return 'lol';
 }
 
 function deserialize(string) {
